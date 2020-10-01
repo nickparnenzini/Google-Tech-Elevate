@@ -1,0 +1,1 @@
+Topics discussed during this week: data structures and algorithms.
