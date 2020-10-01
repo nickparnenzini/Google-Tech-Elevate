@@ -1,1 +1,4 @@
 Topics discussed during this week: data structures and algorithms.
+
+Assignment for the week: implement an evaluator expression, similar to the one
+displayed by Google Search when a user submits a mathematical expression.
